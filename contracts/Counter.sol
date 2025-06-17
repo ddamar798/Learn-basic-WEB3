@@ -9,7 +9,7 @@ contract Counter {
     }
 
     function decrement() public {
-        count -= 1;
+        count -= 1; 
     }
 
     function reset() public {
